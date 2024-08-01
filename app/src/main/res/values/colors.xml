@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="main">#0E6FFF</color>
+    <color name="main2">#589AFD</color>
+    <color name="main4">#B858FD</color>
+
+    <color name="main3">#061A39</color>
+    <color name="grey">#999CA0</color>
+    <color name="Greeting">#999CA0</color>
+    <color name="shadow_color">#4D000000</color> <!-- Semi-transparent black -->
+
+</resources>

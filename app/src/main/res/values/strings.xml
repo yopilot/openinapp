@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">openinapp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ss">ss</string>
+    <string name="_4">4</string>
+    <string name="Dashboard">Dashboard</string>
+    <string name="Morning">Good Morning</string>
+    <string name="Afternoon">Good Afternoon</string>
+    <string name="Evening">Good Evening</string>
+    <string name="Night">Good Night</string>
+    <string name="Name">Ajay Manva 👋</string>
+    <string name="overview">Overview</string>
+    <string name="select_dates">Select Dates</string>
+    <string name="todo">TODO</string>
+    <string name="token">Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjU5MjcsImlhdCI6MTY3NDU1MDQ1MH0.dCkW0ox8tbjJA2GgUx2UEwNlbTZ7Rr38PVFJevYcXFI</string>
+    <string name="clicks">Today\'s Click</string>
+    <string name="clickimage">CLickImage</string>
+    <string name="ClickCount">123</string>
+    <string name="location">location</string>
+    <string name="ahemdabad">Ahemdabad</string>
+    <string name="top_location">Top Location</string>
+    <string name="social">Social</string>
+    <string name="instagram">Instagram</string>
+    <string name="top_source">Top Source</string>
+    <string name="view_analytics">View Analytics</string>
+    <string name="top_link">Top Link</string>
+    <string name="recent_link">Recent Link</string>
+    <string name="amazon">amazon</string>
+    <string name="sample_link">Sample Link</string>
+    <string name="_22_aug_2022">22 Aug 2022</string>
+    <string name="_2333_clicks">2333 clicks</string>
+    <string name="sample">https://samplelink.com/clicks</string>
+    <string name="talk_to_us">Talk With Us</string>
+    <string name="frequently_asked_questions">Frequently Asked Questions</string>
+    <string name="view_all_links">View All Links</string>
+
+
+</resources>

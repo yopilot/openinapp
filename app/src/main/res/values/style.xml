@@ -1,0 +1,12 @@
+<resources>
+    <!-- Style definition for a circular FloatingActionButton -->
+    <style name="yayB" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerSize">50%</item>
+
+    </style>
+    <style name="ChildMarginStyle">
+        <item name="android:layout_marginLeft">30dp</item>
+    </style>
+</resources>
+
+
